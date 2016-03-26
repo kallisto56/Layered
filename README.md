@@ -3,8 +3,8 @@
 Layered designed to display a shadow or glow, under target form. Developed for WinForms, under .Net 2.0 without external dependencies. There are two projects, one of them is actual library, and the other one, an example of how to use Layered. Tested under Windows XP/Vista/7/8.1.
 
 ![](Assets/shadow-n-glow.png "Shadow and glow under target form")
-![](Assets/window-xp-81.png "Tested under Windows XP/Vista/7/8.1")
-![](Assets/window-vista-seven.png "Tested under Windows XP/Vista/7/8.1")
+![](Assets/windows-xp-81.png "Tested under Windows XP/Vista/7/8.1")
+![](Assets/windows-vista-seven.png "Tested under Windows XP/Vista/7/8.1")
 ![](Assets/resizable.gif "It's Resizable")
 
 ## Current version 0.6.0.0
